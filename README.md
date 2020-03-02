@@ -1,5 +1,5 @@
 # Thesis_caseC-2-DNS_subchannel
-This is the backup code for the case C-2 simulation is my thesis.
+This is the backup code for the case C-2 simulation in my thesis.
 
 Case C-2:
 
